@@ -14,7 +14,6 @@
 - [ ] 2 tablespoons red food coloring
 - [ ] 1 teaspoon white distilled vinegar
 - [ ] 1 teaspoon vanilla extract
-- [ ] Crushed pecans, for garnish
 
 ## Instructions
 - [ ] Preheat oven to 350F
@@ -23,7 +22,6 @@
 - [ ] Whisk together wet ingredients
 - [ ] Mix dry ingredients into wet ingredients until batter is smooth
 - [ ] Bake for 30 minutes, rotating half way
-
 
 # Cream Cheese Frosting
 - [ ] 1 pound cream cheese, softened
@@ -34,6 +32,10 @@
 ## Instructions
 - [ ] cream together cheese, butter, and sugar until light and fluffy. About 5 minutes
 - [ ] add vanilla extract
+
+### Garnish
+- [ ] Crushed pecans, for garnish
+
 
 # Shopping List
 - [ ] Vegetable Oil, 1.5 cups

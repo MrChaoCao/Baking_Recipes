@@ -14,7 +14,7 @@
 - [ ] 2 tablespoons red food coloring
 - [ ] 1 teaspoon white distilled vinegar
 - [ ] 1 teaspoon vanilla extract
-- [ ] Crushed pecans, for garnish- [ ]
+- [ ] Crushed pecans, for garnish
 
 ## Instructions
 - [ ] Preheat oven to 350F
